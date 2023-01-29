@@ -29,7 +29,7 @@ Nodes:
     PanelType: "V2board" 
     ApiConfig:
       ApiHost: "https://5gre.xyz"
-      ApiKey: "admin@fastcloud5g.com"
+      ApiKey: "admin@5gre.xyz"
       NodeID1: 1
       NodeType: V2ray 
       Timeout: 30 
@@ -67,7 +67,7 @@ Nodes:
     PanelType: "V2board" 
     ApiConfig:
       ApiHost: "https://5gre.xyz"
-      ApiKey: "admin@fastcloud5g.com"
+      ApiKey: "admin@5gre.xyz"
       NodeID2: 1
       NodeType: V2ray 
       Timeout: 30 
