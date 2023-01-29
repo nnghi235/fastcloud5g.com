@@ -28,7 +28,7 @@ Nodes:
   -
     PanelType: "V2board" 
     ApiConfig:
-      ApiHost: "https://fastcloud5g.com"
+      ApiHost: "https://5gre.xyz"
       ApiKey: "admin@fastcloud5g.com"
       NodeID1: 1
       NodeType: V2ray 
@@ -66,7 +66,7 @@ Nodes:
   -
     PanelType: "V2board" 
     ApiConfig:
-      ApiHost: "https://fastcloud5g.com"
+      ApiHost: "https://5gre.xyz"
       ApiKey: "admin@fastcloud5g.com"
       NodeID2: 1
       NodeType: V2ray 
